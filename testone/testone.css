@@ -5,7 +5,7 @@
 }
 .square{
     flex:1;
-    background-color: gold;
+    background-color: #ffa600;
     float: left;
     border-radius:20%;
     margin:2%;
