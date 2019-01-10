@@ -1,6 +1,5 @@
 .divstyle{
     float: left;
-    border-radius:5px 5px 0 0;
     width: 100%;
     display: flex;
     flex-wrap:wrap;
@@ -9,7 +8,7 @@
     flex:1;
     background-color: gold;
     float: left;
-    border-radius:10px 10px 10px 10px;
-    margin:5px;
+    border-radius:20%;
+    margin:2%;
     padding-bottom: 30%;
 }
