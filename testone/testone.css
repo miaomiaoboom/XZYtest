@@ -1,0 +1,15 @@
+.divstyle{
+    float: left;
+    border-radius:5px 5px 0 0;
+    width: 100%;
+    display: flex;
+    flex-wrap:wrap;
+}
+.indivstyle{
+    flex:1;
+    background-color: gold;
+    float: left;
+    border-radius:10px 10px 10px 10px;
+    margin:5px;
+    padding-bottom: 30%;
+}
